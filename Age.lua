@@ -6,4 +6,4 @@ WantedYear = io.read()
 
 age = WantedYear - DOB
 
-io.write ("In ", WantedYear, " you will be: ", age, "\n")
+io.write ("In ", WantedYear, " you will be: ", age, "\n") -- go away
